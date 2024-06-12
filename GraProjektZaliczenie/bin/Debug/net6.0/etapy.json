@@ -1,0 +1,61 @@
+[
+  {
+    "Index": 0,
+    "Title": "Lecisz samolotem wypadaja maski",
+    "Choices": [
+      "Zakladam",
+      "Nie zakladam",
+      "Ide do toalety",
+      "Panikuje"
+    ],
+    "CorrectChoiceIndex": 0
+  },
+  {
+    "Index": 0,
+    "Title": "Czujesz turbulencje",
+    "Choices": [
+      "Siedze w miejscu",
+      "Ide do kokpitu",
+      "Ide na tyl samolotu",
+      "Chowam sie w toalecie"
+    ],
+    "CorrectChoiceIndex": 2
+  },
+
+  {
+    "Index": 0,
+    "Title": "Zauwazasz lezacy spadochron, co robisz?",
+    "Choices": [
+      "Nie Zakladam",
+      "Zakladam",
+      "Wracam na miejsce",
+      "Ignoruje"
+    ],
+    "CorrectChoiceIndex": 1
+  },
+
+  {
+    "Index": 0,
+    "Title": "Drzwi ewakuacyjne sie odtworzyly, co robisz? ",
+    "Choices": [
+      "Skacze i odtwieram spadochron",
+      "Skacze, lecz nie odtwieram spadochronu",
+      "Wracam na miejsce",
+      "Rozmyslam"
+    ],
+    "CorrectChoiceIndex": 0
+  },
+
+  {
+    "Index": 0,
+    "Title": "Brawo ! Przezyles... \n Ladujesz na bezludnej wyspie, zmeczony, spragniony i głodny.. ",
+    "Choices": [
+      "Kontyunuj gre.."      
+
+    ],
+    "CorrectChoiceIndex": 0
+  }
+
+
+
+]

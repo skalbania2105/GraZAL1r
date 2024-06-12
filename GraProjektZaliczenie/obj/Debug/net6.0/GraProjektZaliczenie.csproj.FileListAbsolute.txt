@@ -1,0 +1,36 @@
+C:\Users\aniak\Desktop\Studia\GraProjektZaliczenie\GraProjektZaliczenie\obj\Debug\net6.0\GraProjektZaliczenie.csproj.AssemblyReference.cache
+C:\Users\aniak\Desktop\Studia\GraProjektZaliczenie\GraProjektZaliczenie\obj\Debug\net6.0\GraProjektZaliczenie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aniak\Desktop\Studia\GraProjektZaliczenie\GraProjektZaliczenie\obj\Debug\net6.0\GraProjektZaliczenie.AssemblyInfoInputs.cache
+C:\Users\aniak\Desktop\Studia\GraProjektZaliczenie\GraProjektZaliczenie\obj\Debug\net6.0\GraProjektZaliczenie.AssemblyInfo.cs
+C:\Users\aniak\Desktop\Studia\GraProjektZaliczenie\GraProjektZaliczenie\obj\Debug\net6.0\GraProjektZaliczenie.csproj.CoreCompileInputs.cache
+C:\Users\aniak\Desktop\Studia\GraProjektZaliczenie\GraProjektZaliczenie\bin\Debug\net6.0\GraProjektZaliczenie.exe
+C:\Users\aniak\Desktop\Studia\GraProjektZaliczenie\GraProjektZaliczenie\bin\Debug\net6.0\GraProjektZaliczenie.deps.json
+C:\Users\aniak\Desktop\Studia\GraProjektZaliczenie\GraProjektZaliczenie\bin\Debug\net6.0\GraProjektZaliczenie.runtimeconfig.json
+C:\Users\aniak\Desktop\Studia\GraProjektZaliczenie\GraProjektZaliczenie\bin\Debug\net6.0\GraProjektZaliczenie.dll
+C:\Users\aniak\Desktop\Studia\GraProjektZaliczenie\GraProjektZaliczenie\bin\Debug\net6.0\GraProjektZaliczenie.pdb
+C:\Users\aniak\Desktop\Studia\GraProjektZaliczenie\GraProjektZaliczenie\bin\Debug\net6.0\Figgle.dll
+C:\Users\aniak\Desktop\Studia\GraProjektZaliczenie\GraProjektZaliczenie\bin\Debug\net6.0\Pastel.dll
+C:\Users\aniak\Desktop\Studia\GraProjektZaliczenie\GraProjektZaliczenie\obj\Debug\net6.0\GraProjektZaliczenie.csproj.CopyComplete
+C:\Users\aniak\Desktop\Studia\GraProjektZaliczenie\GraProjektZaliczenie\obj\Debug\net6.0\GraProjektZaliczenie.dll
+C:\Users\aniak\Desktop\Studia\GraProjektZaliczenie\GraProjektZaliczenie\obj\Debug\net6.0\refint\GraProjektZaliczenie.dll
+C:\Users\aniak\Desktop\Studia\GraProjektZaliczenie\GraProjektZaliczenie\obj\Debug\net6.0\GraProjektZaliczenie.pdb
+C:\Users\aniak\Desktop\Studia\GraProjektZaliczenie\GraProjektZaliczenie\obj\Debug\net6.0\GraProjektZaliczenie.genruntimeconfig.cache
+C:\Users\aniak\Desktop\Studia\GraProjektZaliczenie\GraProjektZaliczenie\obj\Debug\net6.0\ref\GraProjektZaliczenie.dll
+C:\Users\kamil\Downloads\GraProjektZaliczenie (1)\GraProjektZaliczenie\GraProjektZaliczenie\bin\Debug\net6.0\GraProjektZaliczenie.exe
+C:\Users\kamil\Downloads\GraProjektZaliczenie (1)\GraProjektZaliczenie\GraProjektZaliczenie\bin\Debug\net6.0\GraProjektZaliczenie.deps.json
+C:\Users\kamil\Downloads\GraProjektZaliczenie (1)\GraProjektZaliczenie\GraProjektZaliczenie\bin\Debug\net6.0\GraProjektZaliczenie.runtimeconfig.json
+C:\Users\kamil\Downloads\GraProjektZaliczenie (1)\GraProjektZaliczenie\GraProjektZaliczenie\bin\Debug\net6.0\GraProjektZaliczenie.dll
+C:\Users\kamil\Downloads\GraProjektZaliczenie (1)\GraProjektZaliczenie\GraProjektZaliczenie\bin\Debug\net6.0\GraProjektZaliczenie.pdb
+C:\Users\kamil\Downloads\GraProjektZaliczenie (1)\GraProjektZaliczenie\GraProjektZaliczenie\bin\Debug\net6.0\Figgle.dll
+C:\Users\kamil\Downloads\GraProjektZaliczenie (1)\GraProjektZaliczenie\GraProjektZaliczenie\bin\Debug\net6.0\Pastel.dll
+C:\Users\kamil\Downloads\GraProjektZaliczenie (1)\GraProjektZaliczenie\GraProjektZaliczenie\obj\Debug\net6.0\GraProjektZaliczenie.csproj.AssemblyReference.cache
+C:\Users\kamil\Downloads\GraProjektZaliczenie (1)\GraProjektZaliczenie\GraProjektZaliczenie\obj\Debug\net6.0\GraProjektZaliczenie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kamil\Downloads\GraProjektZaliczenie (1)\GraProjektZaliczenie\GraProjektZaliczenie\obj\Debug\net6.0\GraProjektZaliczenie.AssemblyInfoInputs.cache
+C:\Users\kamil\Downloads\GraProjektZaliczenie (1)\GraProjektZaliczenie\GraProjektZaliczenie\obj\Debug\net6.0\GraProjektZaliczenie.AssemblyInfo.cs
+C:\Users\kamil\Downloads\GraProjektZaliczenie (1)\GraProjektZaliczenie\GraProjektZaliczenie\obj\Debug\net6.0\GraProjektZaliczenie.csproj.CoreCompileInputs.cache
+C:\Users\kamil\Downloads\GraProjektZaliczenie (1)\GraProjektZaliczenie\GraProjektZaliczenie\obj\Debug\net6.0\GraProjektZaliczenie.csproj.CopyComplete
+C:\Users\kamil\Downloads\GraProjektZaliczenie (1)\GraProjektZaliczenie\GraProjektZaliczenie\obj\Debug\net6.0\GraProjektZaliczenie.dll
+C:\Users\kamil\Downloads\GraProjektZaliczenie (1)\GraProjektZaliczenie\GraProjektZaliczenie\obj\Debug\net6.0\refint\GraProjektZaliczenie.dll
+C:\Users\kamil\Downloads\GraProjektZaliczenie (1)\GraProjektZaliczenie\GraProjektZaliczenie\obj\Debug\net6.0\GraProjektZaliczenie.pdb
+C:\Users\kamil\Downloads\GraProjektZaliczenie (1)\GraProjektZaliczenie\GraProjektZaliczenie\obj\Debug\net6.0\GraProjektZaliczenie.genruntimeconfig.cache
+C:\Users\kamil\Downloads\GraProjektZaliczenie (1)\GraProjektZaliczenie\GraProjektZaliczenie\obj\Debug\net6.0\ref\GraProjektZaliczenie.dll

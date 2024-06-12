@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "oS+hLbZUC0nAtJNyeUGiwdJZJIFQasXkQlKAJ5OlqyXWi/HM26Yu7HrgMG8JDiIbxay2+4wV34rC/Cr/7o2jDQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kamil\\Downloads\\GraProjektZaliczenie (1)\\GraProjektZaliczenie\\GraProjektZaliczenie\\GraProjektZaliczenie.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kamil\\.nuget\\packages\\figgle\\0.5.1\\figgle.0.5.1.nupkg.sha512",
+    "C:\\Users\\kamil\\.nuget\\packages\\pastel\\4.1.0\\pastel.4.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
